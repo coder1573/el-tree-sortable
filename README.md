@@ -1,5 +1,7 @@
 # el-tree-sortable
 
+[项目说明文档](https://juejin.cn/post/7450315656349646882)
+
 ## Project setup
 ```
 npm install
